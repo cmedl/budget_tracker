@@ -1,0 +1,4 @@
+inputs*
+*.csv
+.DS_Store
+.gitignore.swp
